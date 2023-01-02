@@ -2,6 +2,7 @@
 # Project 1
 # Mad Libs
 # Continents (Asia, Africa, Europe, North America, South America, Oceania and Antarctica) 
+# Using formatted string f""
 
 continent1 = input("continent: ")
 continent2 = input("continent: ")
