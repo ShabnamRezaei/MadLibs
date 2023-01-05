@@ -10,6 +10,6 @@ def guess(x):
         elif guess > random_number:
             print('Sorry, guess again, too high.')
 
-    print(f'Congrats, you have guessed the number {x}')
+    print(f'Congrats, you have guessed the number {random_number}')
 
 guess(10)
